@@ -1,0 +1,59 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Pune, India",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Pune",
+        "country": "India",
+        "region": "Maharashtra",
+        "lat": "18.533",
+        "lon": "73.867",
+        "timezone_id": "Asia/Kolkata",
+        "localtime": "2026-05-03 11:00",
+        "localtime_epoch": 1777806000,
+        "utc_offset": "5.50"
+    },
+    "current": {
+        "observation_time": "05:30 AM",
+        "temperature": 35,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+        ],
+        "weather_descriptions": [
+            "Sunny"
+        ],
+        "astro": {
+            "sunrise": "06:06 AM",
+            "sunset": "06:57 PM",
+            "moonrise": "08:31 PM",
+            "moonset": "06:50 AM",
+            "moon_phase": "Waning Gibbous",
+            "moon_illumination": 98
+        },
+        "air_quality": {
+            "co": "218.85",
+            "no2": "10.65",
+            "o3": "50",
+            "so2": "8.05",
+            "pm2_5": "26.15",
+            "pm10": "45.35",
+            "us-epa-index": "2",
+            "gb-defra-index": "2"
+        },
+        "wind_speed": 23,
+        "wind_degree": 297,
+        "wind_dir": "WNW",
+        "pressure": 1009,
+        "precip": 0,
+        "humidity": 20,
+        "cloudcover": 0,
+        "feelslike": 33,
+        "uv_index": 11,
+        "visibility": 10,
+        "is_day": "yes"
+    }
+}
